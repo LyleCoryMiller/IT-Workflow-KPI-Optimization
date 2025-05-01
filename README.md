@@ -78,4 +78,4 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 ## Final Thoughts 📝
 This project aligns with responsibilities of **Systems Analysts**, **Operations Analysts**, and **Business Analysts** by using structured data to evaluate IT service performance, recommend improvements, and reduce operational inefficiencies.
 
->_Note: Also listed as “IT Workflow & KPI Optimization” on my resume and LinkedIn profile._
+>This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. For more projects, visit my main GitHub portfolio.
