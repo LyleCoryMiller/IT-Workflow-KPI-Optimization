@@ -1,4 +1,7 @@
 # IT Workflow & KPI Optimization (Excel, Tableau)
+
+![Dashboard Screenshot](./IT_Helpdesk_Analysis_Dashboard.png)
+
 _Note: Also listed as “IT Workflow & KPI Optimization” on my resume and LinkedIn profile._
 
 ![Tool](https://img.shields.io/badge/Tool-Tableau-blue) 
@@ -15,7 +18,6 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 - [Objectives](#objectives-)
 - [Tools Used](#tools-used-)
 - [Key Insights](#key-insights-)
-- [Dashboard Preview](#dashboard-preview-)
 - [Report Access](#report-access-)
 - [Project Files & Instructions](#project-files--instructions-)
 - [Conclusion & Recommendations](#conclusion--recommendations-)
@@ -46,10 +48,6 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 
 ---
 
-## Dashboard Preview 📊
-
-![Dashboard Screenshot](./IT_Helpdesk_Analysis_Dashboard.png)
-
 ## Report Access 📄
 
 - [📄 View Final Report (PDF)](./IT_Helpdesk_Performance_Analysis_Report.pdf)
@@ -78,4 +76,4 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 ## Final Thoughts 📝
 This project aligns with responsibilities of **Systems Analysts**, **Operations Analysts**, and **Business Analysts** by using structured data to evaluate IT service performance, recommend improvements, and reduce operational inefficiencies.
 
->This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. For more projects, visit my main GitHub portfolio.
+> ⚠️ This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. For more projects, visit my main GitHub portfolio.
