@@ -1,5 +1,7 @@
 # IT Workflow & KPI Optimization (Excel, Tableau)
 
+*Evaluated IT help desk metrics using SQL and Tableau to improve ticket resolution speed and workload efficiency.*
+
 ![Dashboard Screenshot](./IT_Helpdesk_Analysis_Dashboard.png)
 
 _Note: Also listed as “IT Workflow & KPI Optimization” on my resume and LinkedIn profile._
